@@ -1,4 +1,4 @@
-# UML
+# Software Engineering Helper: UML
 Software Engineering Helper: UML. This is AI-powerd UML generator for software engineers.
 
 **Project Overview:**\
@@ -18,10 +18,10 @@ The generated diagram is displayed using Mermaid.
 **AI Integration:**\
 The current implementation uses placeholder Mermaid code for diagram generation. The actual AI integration is not yet clear from the provided files.
 
-**Development:**\
+**Development:**
 - `npm install`
 - `npm run dev`
 
 ## Credits
 - UI: v0.dev
-- [BLUE LOTUS](https:lotuschain.org)
+- [BLUE LOTUS](https://lotuschain.org)
