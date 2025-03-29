@@ -1,3 +1,7 @@
+<div align="right">
+<sub>Public | Free OpenSource</sub>
+</div>
+
 # Software Engineering Helper: UML
 Software Engineering Helper: UML. This is AI-powerd UML generator for software engineers.
 
